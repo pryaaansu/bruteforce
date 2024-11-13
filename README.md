@@ -2,16 +2,6 @@
 
 A powerful and customizable tool for **brute-forcing** passwords in web applications. This tool is intended for educational and ethical hacking purposes only. Use it responsibly and only on systems you have permission to test.
 
-## 📜 Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Example Output](#example-output)
-- [Supported Environments](#supported-environments)
-- [Contributions](#contributions)
-- [License](#license)
-
 ## 📘 Introduction
 This tool helps security professionals and ethical hackers in performing brute-force password attacks on login forms. It allows for easy configuration and execution of brute-force attacks against a specified URL, using a wordlist of potential passwords.
 
